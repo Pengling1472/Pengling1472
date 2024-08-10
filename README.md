@@ -1,4 +1,13 @@
-## Gato 🐈
+## About Me 🐈
+
+🌱 Currently learning  
+
+HTML5
+CSS3
+JavaScript
+React
+Node.js
+MongoDB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)
 
