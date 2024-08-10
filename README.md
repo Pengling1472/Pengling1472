@@ -1,4 +1,4 @@
-## About Me 🐈
+## About Me 😺
 
 🐈 I like cats! I have 6 of them :D<br/>
 ✒️ I like to do manga like art<br/>
