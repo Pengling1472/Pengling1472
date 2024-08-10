@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anselal&theme=tokyonight)](https://github.com/Pengling1472/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=tokyonight)](https://github.com/Pengling1472/Pengling1472)
 
 <!--
 **Pengling1472/Pengling1472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
