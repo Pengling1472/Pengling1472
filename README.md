@@ -1,10 +1,14 @@
 ## About Me 🐈
 
+🐈 I like cats! I have 6 of them :D<br/>
+✒️ I like to do manga like art<br/>
+⚡ I like creating projects for fun<br/>
 🌱 Currently learning game dev
-⚡ Fun fact: I like drawing anime
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,discordjs,blender,cs,godot,mongodb,netlify,vite)](https://skillicons.dev)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)
+## Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,discordjs,mongodb,nodejs,react,netlify,vite,blender,godot)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)<br/>
 
 <!--
 **Pengling1472/Pengling1472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
