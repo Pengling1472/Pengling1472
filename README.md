@@ -1,14 +1,9 @@
 ## About Me 🐈
 
-🌱 Currently learning  
+🌱 Currently learning game dev
+⚡ Fun fact: I like drawing anime
 
-HTML5
-CSS3
-JavaScript
-React
-Node.js
-MongoDB
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,discordjs,blender,cs,godot,mongodb,netlify,vite)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)
 
 <!--
