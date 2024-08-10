@@ -6,7 +6,7 @@
 🌱 Currently learning game dev
 
 ## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,mongodb,discordjs,nodejs,react,netlify,vite,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,discordjs,nodejs,react,netlify,vite,godot)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)<br/>
 
