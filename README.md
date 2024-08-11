@@ -7,7 +7,7 @@
   ✒️ I like to do manga like art<br/>
   ⚡ I like coding projects for fun<br/>
   🌱 Currently learning game dev
-</div>
+</div><br/>
 
 <h1 align=center>Languages & Tools</h1>
 
