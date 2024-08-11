@@ -1,6 +1,7 @@
 <h1 align=center>
   About Me
-  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+  
+  ![](https://github.com/Pengling1472/Pengling1472/computer.mp4)
 </h1>
 
 <div align="center">
