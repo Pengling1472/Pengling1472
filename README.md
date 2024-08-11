@@ -1,14 +1,27 @@
-## About Me 😺
+<h1 align=center>
+  About Me
+  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+</h1>
 
-🐈 I like cats! I have 6 of them :D<br/>
-✒️ I like to do manga like art<br/>
-⚡ I like coding projects for fun<br/>
-🌱 Currently learning game dev
+<div align="center">
+  🐈 I like cats! I have 6 of them :D<br/>
+  ✒️ I like to do manga like art<br/>
+  ⚡ I like coding projects for fun<br/>
+  🌱 Currently learning game dev
+</div>
 
-## Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,discordjs,nodejs,react,netlify,vite,godot)](https://github.com/Pengling1472/Pengling1472)
+<h1 align=center>Languages & Tools</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)<br/>
+<div align="center">
+  
+  [![](https://skillicons.dev/icons?i=js,html,css,cs,mongodb,discordjs,nodejs,react,netlify,vite,godot)](https://github.com/Pengling1472/Pengling1472)</br></br>
+  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472/Pengling1472)</br>
+  <img src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width='300px' />
+
+</div>
+
+
+
 
 <!--
 **Pengling1472/Pengling1472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
