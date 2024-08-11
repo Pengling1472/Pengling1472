@@ -1,10 +1,7 @@
-<h1 align=center>
-  About Me
-  
-  ![](https://github.com/Pengling1472/Pengling1472/computer.mp4)
-</h1>
+<h1 align=center>About Me</h1>
 
 <div align="center">
+  <img src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150 align=right>
   🐈 I like cats! I have 6 of them :D<br/>
   ✒️ I like to do manga like art<br/>
   ⚡ I like coding projects for fun<br/>
