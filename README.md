@@ -14,7 +14,8 @@
 <div align="center">
   
   [![](https://skillicons.dev/icons?i=js,ts,cs,html,css)](https://github.com/Pengling1472)</br>
-  [![](https://skillicons.dev/icons?i=mongodb,discordjs,nodejs,react,netlify,vite,godot)](https://github.com/Pengling1472)</br></br>
+  [![](https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,react)](https://github.com/Pengling1472)</br>
+  [![](https://skillicons.dev/icons?i=netlify,vite,godot)](https://github.com/Pengling1472)</br></br>
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472)</br>
 
 </div>
