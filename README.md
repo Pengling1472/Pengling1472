@@ -17,8 +17,8 @@
   [![](https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,react)](https://github.com/Pengling1472)</br>
   [![](https://skillicons.dev/icons?i=netlify,vite,godot)](https://github.com/Pengling1472)</br></br>
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pengling1472&theme=vue-dark)](https://github.com/Pengling1472)</br>  
-  <div align="center">
+  <a align="center" href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
     <img src="song.svg">
-  </div>
+  </a>
 
 </div>
