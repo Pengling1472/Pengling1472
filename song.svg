@@ -1,5 +1,5 @@
-<svg width="499" height="164" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="499" height="164">
+<svg width="497" height="162" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="497" height="162">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <style>
         html, body, div, span, h1, p, a, img {
@@ -13,9 +13,9 @@
         main {
             display: flex;
             padding: 20px;
-            border-radius: 5px;
+            border-radius: 8px;
             background: #273849;
-	    border: 2px solid white;
+	    border: 1px solid white;
             width: 455px;
         }
         aside {
