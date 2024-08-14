@@ -15,6 +15,7 @@
             padding: 20px;
             border-radius: 4.5px;
             background: #273849;
+	    border: 1px solid white
             width: 455px;
         }
         aside {
