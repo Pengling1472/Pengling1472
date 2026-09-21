@@ -2,9 +2,9 @@
 
 <div align=center>
   🐈 I like cats! :D<br/>
-  ✒️ I draw semi-chibi art style<br/>
-  🌳 I play minecraft!<br/>
-  ⚡ I code small projects for fun<br/>
+  🌳 Play so much minecraft!<br/>
+  ✒️ Draw semi-chibi art style<br/>
+  ⚡ Code small projects for fun<br/>
   🌱 Currently learning game dev<br/><br/>
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
