@@ -2,7 +2,7 @@
 
 <div align=center>
   🐈 I like cats! :D<br/>
-  🌳 Play so much minecraft!<br/>
+  🌳 Addicted to minecraft!<br/>
   ✒️ Draw semi-chibi art style<br/>
   ⚡ Code small projects for fun<br/>
   🌱 Currently learning game dev<br/><br/>
