@@ -2,7 +2,7 @@
 
 # About Me!
 
- <img align="right" src='[https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif](https://github.com/Pengling1472/Pengling1472/blob/main/cat-fish.png)' height=150>
+ <img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/cat-fish.png' height=150>
 
  - 🐈 I love cats! :D<br/>
  - 🌳 Addicted to minecraft! Doing builds and coding addons.<br/>
