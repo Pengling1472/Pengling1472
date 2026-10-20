@@ -6,8 +6,8 @@
 
  - 🐈 I love cats! :D<br/>
  - 🌳 Addicted to minecraft! Doing builds and coding addons.<br/>
- - ✒️ Draw semi-chibi art style for my streams and stickers.<br/>
- - 💻 Code small projects for fun, making websites and games.
+ - ✒️ Drawing semi-chibi art style for my streams and stickers.<br/>
+ - 💻 Coding small projects for fun, making websites and games.
 
 <div align="center">
 
