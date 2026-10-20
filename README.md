@@ -2,19 +2,19 @@
 
 # About Me!
 
-<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
-<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
-
  - 🐈 I love cats! :D<br/>
  - 🌳 Addicted to minecraft! Doing builds and coding addons.<br/>
  - ✒️ Draw semi-chibi art style for my streams and stickers.<br/>
  - 💻 Code small projects for fun, making websites and games.<br/><br/><br/><br/>
 
+<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
+<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
+
 <div align="center">
 
-<a align="center" href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
- <img src="song.svg" width="400">
-</a>
+ <a align="center" href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
+  <img src="song.svg" width="400">
+ </a>
 
 </div>
 
