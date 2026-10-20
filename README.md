@@ -1,11 +1,11 @@
+<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
+<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
 # Pengling1472
  - 🐈 I like cats! :D<br/>
  - 🌳 Addicted to minecraft!<br/>
  - ✒️ Draw semi-chibi art style<br/>
  - ⚡ Code small projects for fun<br/>
  - 🌱 Currently learning game dev<br/><br/>
-<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
-<img align="right" src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
 
 ## Languages & Tools
 
