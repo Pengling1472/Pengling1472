@@ -1,5 +1,5 @@
 <svg width="497" height="162" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="497" height="162">
+  <foreignObject width="498" height="163">
     <body xmlns="http://www.w3.org/1999/xhtml">
       <style>
         html, body, div, span, h1, p, a, img {
@@ -15,7 +15,7 @@
             padding: 20px;
             border-radius: 8px;
             background: #273849;
-	    	border: 1px solid white;
+	    	border: 2px solid white;
             width: 455px;
         }
         aside {
