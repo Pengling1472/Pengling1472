@@ -16,7 +16,7 @@
 
 </div>
 
-## Languages & Tools
+# Languages & Tools
 
 <div align="center">
  
