@@ -4,7 +4,7 @@
  - ✒️ Draw semi-chibi art style<br/>
  - ⚡ Code small projects for fun<br/>
  - 🌱 Currently learning game dev<br/><br/>
- <div align="center">
+ <div align="right">
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
  </div>
