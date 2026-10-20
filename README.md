@@ -8,8 +8,8 @@
  - ✒️ Draw semi-chibi art style for my streams and stickers.<br/>
  - 💻 Code small projects for fun, making websites and games.<br/><br/>
 
-<a align="center" href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
-  <img src="song.svg">
+<a href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
+  <img align="center" src="song.svg">
 </a>
   
 ## Languages & Tools
