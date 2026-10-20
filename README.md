@@ -1,18 +1,17 @@
 # Pengling1472
-
-## About Me!
  - 🐈 I like cats! :D<br/>
  - 🌳 Addicted to minecraft!<br/>
  - ✒️ Draw semi-chibi art style<br/>
  - ⚡ Code small projects for fun<br/>
  - 🌱 Currently learning game dev<br/><br/>
+ <div align="center">
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/computer.gif' height=150>
   <img src='https://github.com/Pengling1472/Pengling1472/blob/main/coffee.gif' height=150>
+ </div>
 
 ## Languages & Tools
 
 <div align="center">
-  
   [![](https://skillicons.dev/icons?i=js,ts,cs,html,css)](https://github.com/Pengling1472)</br>
   [![](https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,react)](https://github.com/Pengling1472)</br>
   [![](https://skillicons.dev/icons?i=netlify,vite,godot)](https://github.com/Pengling1472)</br></br>
@@ -20,5 +19,4 @@
   <a align="center" href="https://open.spotify.com/track/1FOlGfdJdsq6NppmPNqdmb?si=0f3ba855172d4b8c">
     <img src="song.svg" width="299">
   </a>
-
 </div>
